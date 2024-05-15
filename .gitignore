@@ -46,3 +46,6 @@ app.*.map.json
 /lib/.env.*
 /lib/.env.local
 /lib/.env.prod
+/assets/.env.*
+/assets/.env.local
+/assets/.env.prod
